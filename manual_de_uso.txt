@@ -1,0 +1,5 @@
+Para lanzar la aplicación, ejecutar la clase InformationService.java
+En el directorio /data se encuentran los validadores para los ficheros XML
+Ejemplo petición HTTP : http://localhost:10000/index.html	(El fichero está directamente escrito en el código)
+Ejemplo petición HTTPS : https://localhost:4431/
+Ejemplo petición POP/SMTP : Gmail -> Iniciar sesión -> Usuario : jaimeortizappc@gmail.com Contraseña : correoppc -> Redactar nuevo mensaje (Poner Request en el asunto)
